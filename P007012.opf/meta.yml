@@ -1,15 +1,16 @@
-id: opecha:P007012
+id: P007012
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W3CN6885
   title: ཇོ་ནང་པའི་གྲུབ་མཐའ་སྤྱི་བཤད།
-  volume:
+  author: ''
+  volumes:
     4dd351ce05b84c4ca52cf389ec1bcdda:
       image_group_id: I3CN6887
       title: Volume 1 of jo nang pa'i grub mtha' spyi bshad/
       volume_number: 1
       total_pages: 326
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ཇོ་ནང་པའི་གྲུབ་མཐའ་སྤྱི་བཤད།
   author: ''
